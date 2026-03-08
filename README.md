@@ -174,7 +174,7 @@ This software and its components are the exclusive property of VolkieFF. No lice
 
 ## 🔗 Repository
 
-*Private repository - Access restricted to authorized contributors*
+*It is under development.*
 
 ---
 
