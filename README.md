@@ -1,13 +1,15 @@
-__      __  _____                _      _ 
+```text
+  __      __  _____                _      _ 
   \ \    / / |  __ \              (_)    | |
    \ \  / /  | |  | | _ __   ___   _   __| |
     \ \/ /   | |  | || '__| / _ \ | | / _` |
      \  /    | |__| || |   | (_) || | | (_)|
       \/     |_____/ |_|    \___/ |_| \__,_|
                                                
-           > MOBILE DEV ENVIRONMENT 
-           > VERSION: 1.0.0         
-           > DEV: VOLKIEFF          
+           > MOBILE DEV ENVIRONMENT <
+           > VERSION: 1.0.0         <
+           > DEV: VOLKIEFF          <
+```
 
 ---
 
