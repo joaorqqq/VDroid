@@ -9,6 +9,7 @@
            > MOBILE DEV ENVIRONMENT <
            > VERSION: 1.0.0         <
            > DEV: VOLKIEFF          <
+           > inspiration: termux    <
 ```
 
 ---
